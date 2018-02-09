@@ -1,4 +1,4 @@
-A curated list of awesome refactoring and legacy code resources, just like in other awesome-...s
+A curated list of awesome refactoring and legacy code resources, inspired by other awesome-...s
 
 
 ## Contents
@@ -12,20 +12,16 @@ A curated list of awesome refactoring and legacy code resources, just like in ot
 ## Posts
 
 - [What is legacy code? Is it good for you?](https://blog.rinatussenov.com/what-is-legacy-code-is-it-good-for-you-fb260a467fb7) - Blog post by [Rinat Ussenov](https://blog.rinatussenov.com/@rinatrussenov) on Mar 2017
-
 - [Characterization Testing](https://michaelfeathers.silvrback.com/characterization-testing) - Blog post by [Michael Feathers](https://twitter.com/mfeathers) on Aug 2016
-
 - [How to conquer legacy code](https://medium.freecodecamp.org/conquer-legacy-code-f9e23a6ab758) - Blog post by [Bill Sourour](https://twitter.com/billsourour) on Aug 2016
 
 
 ## Examples
 
+- [Refactoring](https://sourcemaking.com/refactoring) - Several techniques from [SourceMaking](https://sourcemaking.com)
 - [TED 3.0: Working Effectively with Legacy iOS Code](https://carpeaqua.com/2016/06/21/working-effectively-with-legacy-ios-code/) - by [Justin Williams](https://twitter.com/justin) on Jun 2016
-
 - [How to Survive a Legacy Code Apocalypse on Android](https://speakerdeck.com/rallat/how-to-survive-a-legacy-code-apocalypse-on-android) - Presentation by [Israel Ferrer](https://twitter.com/rallat) on Nov 2014
-
 - [Java to Clojure: "Refactoring" refactored functionally](https://adambard.com/blog/refactoring-refactored/) - Blog post by [Adam Bard](https://twitter.com/adambard) on Jun 2014
-
 - [Catalog of Refactorings](https://refactoring.com/catalog/) - by [Martin Fowler](https://twitter.com/martinfowler) on Dec 2013
 
 
@@ -45,7 +41,7 @@ A curated list of awesome refactoring and legacy code resources, just like in ot
 
 - _Don't live with broken windows._ - [Andy Hunt](https://twitter.com/pragmaticandy) & [Dave Thomas](https://twitter.com/pragdave)
 - _A Fallacy of Software: If it works, and we don't change anything, it will keep working._ - [Jessica Kerr](https://twitter.com/jessitron)
-- _Cities grow, cities evolve, cities have part that simply die while other parts flourish; each city has to be renewed in order to meet the needs of its populace. ... Software-intensive systems are like that._ [Grady Booch](https://twitter.com/grady_booch)
+- _Cities grow, cities evolve, cities have part that simply die while other parts flourish; each city has to be renewed in order to meet the needs of its populace. ... Software-intensive systems are like that._ - [Grady Booch](https://twitter.com/grady_booch)
 - _You think refactoring legacy software is bad. Try refactoring legacy culture._ - [Larry Garfield](https://twitter.com/Crell/status/816020121936400384)
 - _One of my most productive days was throwing away 1000 lines of code._ - [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
 - _Refuctoring - the process of taking a well-designed piece of code and, through a series of small, reversible changes, making it completely unmaintainable by anyone except yourself._ - [Jason Gorman](http://www.codemanship.co.uk/)
