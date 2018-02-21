@@ -11,6 +11,7 @@ A curated list of awesome refactoring and legacy code resources, inspired by oth
 
 ## Posts
 
+- [Optimizing A Program (And Programming)](http://geepawhill.org/optimizing-a-program-and-programming/) - Video that starts with an optimization issue that yields to the subject by [Michael D. Hill](https://twitter.com/GeePawHill) on Feb 2018
 - [What is legacy code? Is it good for you?](https://blog.rinatussenov.com/what-is-legacy-code-is-it-good-for-you-fb260a467fb7) - Blog post by [Rinat Ussenov](https://blog.rinatussenov.com/@rinatrussenov) on Mar 2017
 - [Characterization Testing](https://michaelfeathers.silvrback.com/characterization-testing) - Blog post by [Michael Feathers](https://twitter.com/mfeathers) on Aug 2016
 - [How to conquer legacy code](https://medium.freecodecamp.org/conquer-legacy-code-f9e23a6ab758) - Blog post by [Bill Sourour](https://twitter.com/billsourour) on Aug 2016
