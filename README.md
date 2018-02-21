@@ -20,6 +20,7 @@ A curated list of awesome refactoring and legacy code resources, inspired by oth
 
 - [Refactoring](https://sourcemaking.com/refactoring) - Several techniques from [SourceMaking](https://sourcemaking.com)
 - [TED 3.0: Working Effectively with Legacy iOS Code](https://carpeaqua.com/2016/06/21/working-effectively-with-legacy-ios-code/) - by [Justin Williams](https://twitter.com/justin) on Jun 2016
+- [Refactoring a JavaScript video store](https://martinfowler.com/articles/refactoring-video-store-js/) - by [Martin Fowler](https://twitter.com/martinfowler) on May 2016
 - [How to Survive a Legacy Code Apocalypse on Android](https://speakerdeck.com/rallat/how-to-survive-a-legacy-code-apocalypse-on-android) - Presentation by [Israel Ferrer](https://twitter.com/rallat) on Nov 2014
 - [Java to Clojure: "Refactoring" refactored functionally](https://adambard.com/blog/refactoring-refactored/) - Blog post by [Adam Bard](https://twitter.com/adambard) on Jun 2014
 - [Catalog of Refactorings](https://refactoring.com/catalog/) - by [Martin Fowler](https://twitter.com/martinfowler) on Dec 2013
