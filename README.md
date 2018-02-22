@@ -45,6 +45,7 @@ A curated list of awesome refactoring and legacy code resources, inspired by oth
 - _A Fallacy of Software: If it works, and we don't change anything, it will keep working._ - [Jessica Kerr](https://twitter.com/jessitron)
 - _Cities grow, cities evolve, cities have part that simply die while other parts flourish; each city has to be renewed in order to meet the needs of its populace. ... Software-intensive systems are like that._ - [Grady Booch](https://twitter.com/grady_booch)
 - _You think refactoring legacy software is bad. Try refactoring legacy culture._ - [Larry Garfield](https://twitter.com/Crell/status/816020121936400384)
+- _We're changing what the code says without changing what it does._ - [Michael D. Hill](http://geepawhill.org/optimizing-a-program-and-programming/)
 - _One of my most productive days was throwing away 1000 lines of code._ - [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson)
 - _Refuctoring - the process of taking a well-designed piece of code and, through a series of small, reversible changes, making it completely unmaintainable by anyone except yourself._ - [Jason Gorman](http://www.codemanship.co.uk/)
 
